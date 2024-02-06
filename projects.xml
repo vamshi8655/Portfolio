@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <project>
+        <image-path>./images/99.png</image-path>
+        <link>./Projects/99_designs_logo_website/99design.html</link>
+        <languages>HTML, CSS</languages>
+        <name>99designs Clone</name>
+    </project>
+
+    <project>
+        <image-path>./images/netflix.png</image-path>
+        <link>./Projects/netflix/netflix.html</link>
+        <languages>HTML, CSS</languages>
+        <name>Netflix Clone</name>
+    </project>
+
+    <project>
+        <image-path>./images/Maguwo.png</image-path>
+        <link>./Projects/assign1/assign1/host.html</link>
+        <languages>HTML, CSS</languages>
+        <name>Maguwo-Host Landing Page</name>
+    </project>
+
+    <project>
+        <image-path>./images/Landscaper.png</image-path>
+        <link>./Projects/Landscaper/home.html</link>
+        <languages>HTML, CSS</languages>
+        <name>Landscaper Landing Page</name>
+    </project>
+
+    <project>
+        <image-path>./images/music.png</image-path>
+        <link>./Projects/video/music.html</link>
+        <languages>HTML, CSS, Javascript</languages>
+        <name>Music Player</name>
+    </project>
+
+    <project>
+        <image-path>./images/Video.png</image-path>
+        <link>./Projects/video/videoplayer.html</link>
+        <languages>HTML, CSS, Javascript</languages>
+        <name>Video Player</name>
+    </project>
+
+    <project>
+        <image-path>./images/ice-cream.png</image-path>
+        <link>./Projects/Assignment/home.html</link>
+        <languages>HTML, CSS, Javascript</languages>
+        <name>Ice-cream website</name>
+    </project>
+
+    <project>
+        <image-path>./images/ecomm.png</image-path>
+        <link>./Projects/ECOMM/home.html</link>
+        <languages>HTML, CSS, Javascript</languages>
+        <name>Ecommerce website</name>
+    </project>
+
+    <project>
+        <image-path>./images/alpha.png</image-path>
+        <link>./Projects/netflix/alpha.html</link>
+        <languages>HTML, CSS</languages>
+        <name>Alpha clone</name>
+    </project>
+</portfolio>

@@ -1,0 +1,283 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(249, 168, 168);
+}
+#log1{
+    width: 10%;
+    font-size: 1.5rem;
+    height: 2.7rem;
+    background-color: black;
+    /* padding: 1%; */
+}
+nav{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(134, 205, 249);
+     */
+    background-image: url(./images/bg1.jpg);
+    padding: 0 1rem;
+}
+nav #cent{
+    width: 100%;
+    position: relative;
+    right: 12%;
+}
+nav div img{
+    width: 25%;
+}
+nav #cent ul{
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    list-style-type: none;
+    font-size: 1.8rem;
+    gap: 8%;
+}
+#cent a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+}
+#cent ul li a{
+    background-color: #fff;
+}
+#cent ul li a:hover{
+    color: #fff;
+    background-color: black;
+}
+#cent ul li .menu{
+    padding: 0;
+    margin: 0;
+    background: white;
+    position: absolute;
+    list-style-type: none;
+    display: none;  
+    border-radius: 10px;
+    z-index: 3;
+}
+#cent ul li .menu a{
+    padding: 10px;
+}
+#cent ul li .menu a:hover{
+    background-color: black;
+    color: white;
+    /* z-index: 1; */
+}
+#sticky:hover .menu{
+    display:inline;
+}
+#right a{
+    font-size: 1.8rem;
+    text-decoration: none;
+    border-radius: 8px;
+    color: #fff;
+    background-color: black;
+    padding: 6px;
+    position: absolute;
+    right: 142px;
+    top: 3.2%;
+}
+#right a:hover{
+    border: 3px groove black;
+    color: black;
+    background-color: #fff;
+}
+form{
+    border: 3px groove gainsboro;
+    width: 25%;
+    border-radius: 5px;
+    padding: 20px;
+}
+#form1{
+    width: 55%;
+    margin: auto;
+}
+.cont{
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    /* background-color: #fff; */
+    background-color:rgb(247, 247, 189);
+    color: black;
+    text-align: center;
+    border: 2px groove black;
+    border-radius: 15px;
+}
+.cont img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    height: 250px;
+    position: relative;
+    top: -3.08%;
+    z-index: 1;
+}
+.cont p{
+    /* height: fit-content; */
+    /* width: fit-content; */
+}
+.cont h3,.cont h4,.cont h5,.cont p{
+    padding: 12px;
+    margin: 0;
+}
+.cont h3{
+    font-size: 1.5rem;
+}
+.cont p{
+    font-style: italic;
+}
+.cont #sub{
+    font-size: 1.4rem;
+} 
+.cont div{
+    display: flex;
+    justify-content: center;
+    /* padding-right: 1rem; */
+    gap: 8rem;
+}
+.cont button{
+    width: 90%;
+    margin: auto;
+    height: 3rem;
+    border: none;
+    /* background-image: url(./images/bg3.jpg); */
+    background-color: rgb(249, 168, 168);
+    color: black;
+    font-size: 1.4rem;
+    font-weight: bold;
+    border-radius: 16px;
+    margin-bottom: 3%;
+}
+.design{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,23%);
+    justify-content: center;
+    gap: 1rem;
+}
+#cart{
+    width: 24%;
+    background-color: rgb(247, 247, 189);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    padding: 1rem;
+    transition: 1s;
+    overflow-y: scroll;
+    z-index: 3;
+}
+#cart-header h2{
+    text-align: center;
+}
+#cart-header h3{
+    text-align:right;
+}
+#cart-footer button{
+    width: 100%;
+    height: 3rem;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+}
+#cancel{
+    cursor: pointer;
+}
+.cart-body-design{
+    z-index: 4;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
+}
+.p-img img{
+    width: 100%;
+}
+.p-details input{
+    width: 30%;
+}
+.p-subtotal{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+#main{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 90vh;
+}
+input{
+    width: 40%;
+    height: 30px;
+    border: 3px groove gainsboro;
+    border-radius: 5px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.input1{
+    width: 90%;
+    margin-left: 0;
+    margin:0px 0px 30px 0px;
+}
+button{
+    width: 45%;
+    height: 30px;
+    /* border: none; */
+    border-radius: 5px;
+    background-color:rgb(52, 103, 243);
+    font-size: 17px;
+    color: #fff;
+}
+#button{
+    width: 25%;
+    margin-top: 25px;
+    margin-left: 68%;
+    height: 35px;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    margin-bottom: 10px;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 80%;
+}
+th{
+    padding: 4px;
+}
+td{
+    border-top: 3px groove black;
+    border-bottom: 3px groove gainsboro;
+    padding: 8px;
+}
+#data{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
+#btn{
+    width: 10%;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    left: 140px;
+}
+#icons{
+    font-size: 1.2rem;
+}

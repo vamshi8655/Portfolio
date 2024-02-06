@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./images/bg1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -37%;
+}
+video{
+    margin-top: 40%;
+    border: 2px groove black;
+    border-radius: 6px;
+}
+#videorange{
+    width: 100%;
+}
+#imp,#vol-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#imp .fa-solid{
+    /* display: inline-flex; */
+    margin-left: 10px;
+}

@@ -1,0 +1,149 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(134, 205, 249);
+    padding: 0 1rem;
+}
+nav div img{
+    width: 20%;
+}
+nav #cent{
+    width:60%;
+    margin: auto;
+}
+nav #cent ul{
+    display: flex;
+    list-style-type: none;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#cent ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0 1rem;
+    display: block;
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+#right  button{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    padding: 6px;
+    border-radius: 8px;
+}
+#right a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    border: 3px groove black;
+    padding: 6px;
+    border-radius: 8px;
+    color: white;
+    background-color: black;
+}
+#cent ul li .menu{
+    display: none;
+}
+#cent ul li .menu a:hover{
+    background-color: black;
+    color: white;
+    display: block;
+}
+#sticky:hover .menu{
+    display:inline;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    /* width: 25%; */
+    border-radius: 5px;
+    /* background-color: black; */
+    color: black;
+    text-align: center;
+    border: 2px groove black;
+}
+.cont img{
+    width: 100%;
+    height: 250px;
+}
+.cont p{
+    /* height: fit-content; */
+    /* width: fit-content; */
+}
+/* .cont h3,.cont h4,.cont h5,.cont p{
+    padding-left: 1rem;
+} */
+.cont div{
+    display: flex;
+    justify-content: center;
+    /* padding-right: 1rem; */
+    gap: 8rem;
+}
+.cont button{
+    width: 100%;
+    height: 3rem;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+}
+.design{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    justify-content: center;
+    gap: 1rem;
+}
+#cart{
+    width: 24%;
+    background-color: yellow;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    padding: 1rem;
+    transition: 1s;
+    overflow-y: scroll;
+}
+#cart-header h2{
+    text-align: center;
+}
+#cart-header h3{
+    text-align:right;
+}
+#cart-footer button{
+    width: 100%;
+    height: 3rem;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+}
+#cancel{
+    cursor: pointer;
+}
+.cart-body-design{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
+}
+.p-img img{
+    width: 100%;
+}
+.p-details input{
+    width: 30%;
+}
+.p-subtotal{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}

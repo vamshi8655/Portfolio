@@ -1,0 +1,439 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans 3', sans-serif;
+    background-image: url(Images/banner.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-color: #f5f5f5;
+    
+}
+#bar{
+    display: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 2%;
+}
+/* 1 rem=16px; */
+#left h1{
+ font-size: 1rem; 
+ color: rgb(255, 255, 255); 
+}
+#left h1 span{
+    font-weight: 100;
+}
+#right #cont{
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+#right a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+#right button{
+    border-radius: 5px;
+    background-color: transparent;
+    font-size: 0.8rem;
+    color: white;
+    border: 2px solid rgb(167, 163, 163);
+    padding: 5px 10px;
+}
+#drop,#drop1{
+    position: relative;
+}
+#main{
+    list-style-type: none;
+    padding: 0;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 100%;
+    right: 0%;
+    width: 250%;
+    display: none;
+}
+#main a{
+    display: block;
+    color: rgb(109, 107, 107);
+    text-decoration: none;
+    font-size: 1rem;
+    padding-left: 12px;
+    border-bottom: 2px solid rgb(156, 154, 154);
+}
+#drop:hover #main{
+    display: block;
+}
+#main a:hover{
+    background-color: rgba(255, 139, 81, 0.775);
+    color: white;
+}
+#sub{
+    list-style-type: none;
+    padding: 0;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 0%;
+    right: 101%;
+    width: 100%;
+    display: none;
+}
+#drop1:hover #sub{
+    display: block;
+}
+#alpha{
+    text-align: center;
+    color: white;
+    margin-top:8rem;
+
+}
+#alpha h1{
+    font-size: 3.5rem;
+    font-weight:590;
+    /* line-height: 1rem; */
+    margin-bottom: 0;
+}
+#alpha p{
+    margin-top: 3rem;
+    font-size: 1.3rem;
+    margin-bottom: 2.5rem;
+}
+#alpha button{
+    /* margin-top: 0.3rem; */
+    width: 13%;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+    margin-left: 1.2rem;
+    background-color: white;
+    color: rgb(109, 107, 107);
+    font-size: 0.8rem;
+}
+#alpha #learn{
+   background-color: transparent;
+   color: white;
+   border: 3px groove rgb(235, 235, 235);
+}
+#intro{
+    background-color: white;
+    width: 70%;
+    /* To bring in center give width and margin auto it will come center */
+    margin: auto;
+    margin-top: 12rem;
+    border-radius: 5px;
+    color:  rgb(109, 107, 107);
+    text-align: center;
+    padding-top: 1rem; 
+}
+#intro h1{
+    font-size: 2.3rem;
+}
+#intro p{
+    font-size: 1.2rem;
+    border-top: 2px groove  rgb(109, 107, 107);
+    width: 60%;
+    margin: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+#intro img{
+    width: 100%;
+}
+#icon{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#icon div{
+    /* background-color: aqua; */
+    padding-top: 2rem;
+    width: 47%;
+    display: inline-block;
+    text-align: center;
+}
+#signup{
+    background-color: #e89980;
+    color: #f9e6df;
+    padding: 3.5em 0 4em 0;
+    text-align: center;
+}
+#signup h1{
+    font-size: 2.3rem;
+}
+#signup input{
+    height: 3rem;
+    padding: 0 1rem;
+    border: none;
+    border-radius: 7px;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #ffffff;
+    width: 15%;
+}
+#signup ::placeholder{
+    color: #ffffff;
+}
+#signup input:focus{
+    outline-color: #ffffff;
+}
+#signup button{
+    height: 3rem;
+    width: 8%;
+    border: none;
+    border-radius: 7px;
+    color: #e89980;
+    background-color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.icons .brands{
+    font-family: 'Font Awesome 5 Brands';
+    font-size: 1.75rem;
+}
+footer{
+    background: #f0f0f0;
+    padding: 4rem 0 6rem 0;
+    text-align: center;
+}
+footer ul{
+    cursor: default;
+    list-style: none;
+    margin-top: 2rem;
+    padding-left: 0;
+}
+footer li{
+    display: inline-block;
+    padding: 0 1.25rem 0 0;
+}
+footer a{
+    color: rgb(202, 200, 200);
+    text-decoration: none;
+}
+footer a:hover{
+    color: grey;
+}
+.fa-bolt-lightning{
+    background-color: #e89980;
+    padding: 1.8rem 2.2rem;
+}
+.fa-solid{
+    color: white;
+    border-radius: 100%;
+    font-size: 2rem;
+}
+.fa-chart-area{
+    background-color: #7fcdb8;
+    padding: 1.8rem 2rem;
+}
+.fa-cloud{
+    background-color: #90b0ba;
+    padding: 1.7rem 1.8rem;
+}
+.fa-lock{
+    background-color:#e5cb95;
+    padding: 1.6rem 2rem;
+}
+#d1{
+    border-right: 2px solid #e5e5e5;
+    border-bottom: 2px solid  #e5e5e5;
+    position: relative;
+    top: 3.5px;
+    left: 3.5px;
+}
+#d4{
+    border-top: 2px solid #e5e5e5;
+    border-left: 2px solid #e5e5e5;
+}
+#icon section{
+    margin-left: 2.9rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem; 
+}
+#cards{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 6rem;
+    display: flex;
+    justify-content: space-between;
+}
+#cards div{
+    background-color:#ffffff;
+    width: 49%;
+    border-radius: 7px;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+.img1{
+    width: 100%;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+}
+#cards button{
+    margin-top: 1.5rem;
+    background-color: white;
+    height: 3rem;
+    width: 25%;
+    border: 2px groove rgb(226, 225, 225);
+    border-radius: 5px;
+}
+#cards button:hover{
+    background-color: rgba(235, 229, 229, 0.663);
+    transition: 1s;
+}
+#cards p{
+    font-size: 1.2rem;
+}
+#cards h1{
+    font-size: 1.7rem;
+    color: rgb(157, 155, 155);
+}
+
+/* mobile version */
+@media(max-width:500px){
+    body{
+        background-size:190%;
+        background-position-x: center;
+    }
+    #bar{
+        display:inline-block;
+        background-color:grey;
+        padding: 5px 10px;
+        color: #ffffff;
+        border-radius: 5px;
+        margin-top:11px;
+        margin-left: 8px;
+    }
+    header{
+        display: none;
+    }
+    #alpha{
+        width: 80%;
+        margin: auto;
+        margin-top:0rem;
+    }
+    #alpha h1{
+        font-size: 2rem;
+    }
+    #alpha p{
+        margin-top: 3rem;
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+    #alpha button{
+        /* margin-top: 0.3rem; */
+        width: 90%;
+        margin-bottom: 1rem;
+    }
+    #intro{
+        width: 100%;
+        /* To bring in center give width and margin auto it will come center */
+        margin: auto;
+        margin-top: 3rem;
+        border-radius: 5px;
+        color:  rgb(109, 107, 107);
+        text-align: center;
+        padding-top: 1rem; 
+    }
+    #intro h1{
+        font-size: 1.7rem;
+        font-weight: 600;
+    }
+    #intro p{
+        font-size: 1rem;
+        border-top: 2px groove  rgb(109, 107, 107);
+        width: 90%;
+        margin: auto;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    br{
+        display: none;
+    }
+    #signup{
+        padding: 1em 0 4em 0;
+    }
+    #signup h1{
+        font-size: 1.6rem;
+    }
+    #signup input{
+        width: 80%;
+    }
+    #signup button{
+        margin-top: 1rem;
+        text-align: center;
+        width: 88%;
+        margin-left: 2px;
+    }
+    .icons .brands::before{
+        font-size: 1.45rem;
+    }
+    footer{
+        padding: 3rem 0 6rem 0;
+    }
+    footer li{
+        margin-top: 10px;
+    }
+    footer .last{
+        width: 60%;
+        margin: auto;
+        font-size: 13px;
+    }
+    #icon{
+        width: 100%;
+        margin: auto;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    #icon div{
+        padding-top: 2rem;
+        width: 90%;
+        text-align: center;
+    }
+    #icon section{
+        margin-left: 0;
+    }
+    #d1{
+        border-right: 0;
+    }
+    #d3{
+        border-top: 2px solid #e5e5e5;
+        border-bottom: 2px solid #e5e5e5;
+    }
+    #d4{
+        border-left: 0;
+    }
+    #cards{
+        width: 100%;
+        margin-bottom: 6rem;
+        display: inline;
+    }
+    .img1{
+        width: 100%;
+
+    }
+    #cards div{
+        background-color:#ffffff;
+        width: 100%;
+    }
+    #cards button{
+        width: 90%;
+        color:rgb(131, 127, 127) ;
+    }
+    #cards p{
+        font-size: 0.85rem;
+    }
+    #cards h1{
+        font-size: 1.3rem;
+    }
+}

@@ -1,0 +1,1256 @@
+{
+  "falooda": [
+    {
+      "name": "Blueberry Cheesecake Falooda",
+      "subcategory": "Dessert Delight",
+      "description": "A sweet combination of blueberry syrup, cheesecake bites, and vanilla ice cream.",
+      "price": 9.49,
+      "ratings": 4.8,
+      "image": "https://secureservercdn.net/45.40.151.233/18a.aed.myftpupload.com/wp-content/uploads/2017/04/Blueberry-Falooda-683x1024.jpg"
+    },
+    {
+      "name": "Kiwi Basil Falooda",
+      "subcategory": "Tropical Fusion",
+      "description": "Fresh kiwi, basil seeds, and kiwi-flavored ice cream for a tropical twist.",
+      "price": 8.79,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/37/bd/a8/37bda8175836a3e9d1c494cc95876301.jpg"
+    },
+    {
+      "name": "Coconut Almond Falooda",
+      "subcategory": "Island Escape",
+      "description": "Coconut milk, shredded almonds, and coconut-flavored ice cream for a taste of the islands.",
+      "price": 7.99,
+      "ratings": 4.7,
+      "image": "https://i.ytimg.com/vi/SB-8QP5SE6w/maxresdefault.jpg"
+    },
+    {
+      "name": "Hazelnut Coffee Falooda",
+      "subcategory": "Coffee Infusion",
+      "description": "Hazelnut syrup, coffee jelly, and coffee-flavored ice cream for a caffeine kick.",
+      "price": 8.99,
+      "ratings": 4.5,
+      "image": "https://media.fooducate.com/lists/images/60760F92-DCB2-F10A-4BCC-A88BF27064C0-4696.jpeg"
+    },
+    {
+      "name": "Green Tea Matcha Falooda",
+      "subcategory": "Zen Blend",
+      "description": "Green tea, matcha pearls, and green tea-flavored ice cream for a calming experience.",
+      "price": 9.29,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.AgweJE7Z3GKYXP_wXY1QigHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pistachio Rosewater Falooda",
+      "subcategory": "Middle Eastern Charm",
+      "description": "Pistachios, rosewater syrup, and pistachio-flavored ice cream for a touch of Middle Eastern flavor.",
+      "price": 10.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.o-ivjiHJk8HxU6E_sxwP5AHaJ3?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Lemon Ginger Mint Falooda",
+      "subcategory": "Citrus Fresh",
+      "description": "Zesty lemon, ginger syrup, and mint-flavored ice cream for a refreshing citrus kick.",
+      "price": 8.49,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/25/84/b4/2584b4cf190e3143263cb31772149909.jpg"
+    },
+    {
+      "name": "Raspberry White Chocolate Falooda",
+      "subcategory": "Sweet Indulgence",
+      "description": "Raspberry syrup, white chocolate chips, and vanilla ice cream for a decadent treat.",
+      "price": 9.99,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.gM_hai3wnFfRpGe1G1z0tgHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Tiramisu Falooda",
+      "subcategory": "Italian Delight",
+      "description": "Coffee-soaked vermicelli, mascarpone cheese, and coffee-flavored ice cream for a Tiramisu-inspired creation.",
+      "price": 11.99,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/originals/ee/8c/27/ee8c276a0c2334dab488f5c4aa3cbb12.jpg"
+    },
+    {
+      "name": "Passion Fruit Lychee Falooda",
+      "subcategory": "Exotic Fusion",
+      "description": "Passion fruit syrup, lychee pearls, and vanilla ice cream for an exotic flavor combination.",
+      "price": 10.79,
+      "ratings": 4.7,
+      "image": "https://images.halaal.recipes/05-09-17/1457106149KxH8L430.jpg"
+    },
+    {
+      "name": "Classic Falooda",
+      "subcategory": "Traditional",
+      "description": "A delightful blend of vermicelli, basil seeds, rose syrup, and ice cream.",
+      "price": 4.99,
+      "ratings": 4.5,
+      "image": "https://2.bp.blogspot.com/-P36V0UkT7S0/WT0fpF_Bq3I/AAAAAAAAPFo/hNQt2kc1Xi8rAg4eAi5fZLztVJBJuSeMACLcB/s1600/DSC_0216.JPG"
+    },
+    {
+      "name": "Mango Falooda",
+      "subcategory": "Fruity",
+      "description": "A tropical twist with fresh mango chunks, mango syrup, and vanilla ice cream.",
+      "price": 5.99,
+      "ratings": 4.8,
+      "image": "https://www.cookclickndevour.com/wp-content/uploads/2017/04/mango-falooda-recipe-c-683x1024.jpg"
+    },
+    {
+      "name": "Chocolate Falooda",
+      "subcategory": "Indulgent",
+      "description": "For chocolate lovers, featuring chocolate syrup, chocolate chips, and chocolate ice cream.",
+      "price": 6.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.u_9OETTY3h3bBh89RPV8-AHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Kesar Pista Falooda",
+      "subcategory": "Exotic",
+      "description": "An exotic blend with saffron, pistachios, and kulfi ice cream for a rich flavor.",
+      "price": 7.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.WCvxFCCH6J9VQaG3u_8WsAHaIk?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Rose Falooda",
+      "subcategory": "Floral",
+      "description": "A fragrant delight with rose syrup, falooda seeds, and vanilla ice cream.",
+      "price": 5.49,
+      "ratings": 4.6,
+      "image": "https://i1.wp.com/www.cookingfromheart.com/wp-content/uploads/2017/03/Rose-Falooda-3.jpg?resize=683%2C1024"
+    },
+    {
+      "name": "Strawberry Falooda",
+      "subcategory": "Berry Bliss",
+      "description": "Fresh strawberries, strawberry syrup, and strawberry ice cream for a fruity explosion.",
+      "price": 6.99,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.q4cOXwsA0I-R_E7XTgOtzAHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Almond Falooda",
+      "subcategory": "Nutty Elegance",
+      "description": "Crushed almonds, almond syrup, and almond-flavored ice cream for a nutty experience.",
+      "price": 8.29,
+      "ratings": 4.7,
+      "image": "https://i1.wp.com/myspicetrunk.com/wp-content/uploads/2019/09/whatsapp-image-2019-09-10-at-11.25.25-am-2.jpeg?w=723&ssl=1"
+    },
+    {
+      "name": "Saffron Cardamom Falooda",
+      "subcategory": "Spice Infusion",
+      "description": "A blend of saffron, cardamom, and vanilla ice cream for a warm and aromatic treat.",
+      "price": 7.79,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/36/49/f5/3649f5717b562b7da9e502e3532725f4.jpg"
+    },
+    {
+      "name": "Banana Caramel Falooda",
+      "subcategory": "Sweet Fusion",
+      "description": "Ripe bananas, caramel syrup, and caramel-flavored ice cream for a sweet indulgence.",
+      "price": 8.99,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/originals/05/d2/82/05d2825cd7b478f55665623a3a780a88.jpg"
+    },
+    {
+      "name": "Pomegranate Mint Falooda",
+      "subcategory": "Refreshing",
+      "description": "Pomegranate pearls, mint syrup, and vanilla ice cream for a refreshing burst of flavors.",
+      "price": 7.49,
+      "ratings": 4.5,
+      "image": "https://static.wixstatic.com/media/a27d24_4b555995ad314c7a951499dc41b8ba18~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg"
+    },
+    {
+      "name": "Caramel Crunch Falooda",
+      "subcategory": "Sweet Sensation",
+      "description": "A delightful mix of caramel syrup, crunchy caramel bits, and vanilla ice cream.",
+      "price": 9.99,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.0BHYdMElnH5F7NKBEbb04QHaLG?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Blackberry Mint Falooda",
+      "subcategory": "Berry Minty Bliss",
+      "description": "Fresh blackberries, mint syrup, and blackberry-flavored ice cream for a refreshing twist.",
+      "price": 8.59,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.uRqEeFtGP8ENlxJ8IqeSbAHaLG?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Peanut Butter Banana Falooda",
+      "subcategory": "Nutty Delight",
+      "description": "Creamy peanut butter, banana slices, and banana-flavored ice cream for a nutty indulgence.",
+      "price": 10.49,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.-gKUfTuJHh2HyY0ZsXmVcwHaLH?w=768&h=1152&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Cherry Chocolate Chip Falooda",
+      "subcategory": "Choc-Cherry Explosion",
+      "description": "Cherry syrup, chocolate chips, and cherry-chocolate ice cream for a sweet explosion of flavors.",
+      "price": 9.79,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.8KrnM78gDeBnba34M2PrpwHaLK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Honey Walnut Falooda",
+      "subcategory": "Nutty Elegance",
+      "description": "Rich honey, chopped walnuts, and honey-flavored ice cream for a sophisticated treat.",
+      "price": 11.29,
+      "ratings": 4.8,
+      "image": "https://i0.wp.com/fettysfoodblog.com/wp-content/uploads/2020/09/How-To-Make-Kombucha-At-Home9.jpg?resize=738%2C1024&ssl=1"
+    },
+    {
+      "name": "Minty Chocolate Falooda",
+      "subcategory": "Mint Chocolate Delight",
+      "description": "Mint syrup, chocolate shavings, and mint-chocolate ice cream for a cool and chocolaty experience.",
+      "price": 10.99,
+      "ratings": 4.7,
+      "image": "https://www.thebigsweettooth.com/wp-content/uploads/2016/02/9.-CF1.jpg"
+    },
+    {
+      "name": "Guava Passion Falooda",
+      "subcategory": "Tropical Passion",
+      "description": "Guava syrup, passion fruit pearls, and guava-flavored ice cream for a tropical burst.",
+      "price": 11.49,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.rQ0jrgfPjbSfCl_IzoJ4KgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Hazelnut Raspberry Falooda",
+      "subcategory": "Hazelnut Berry Bliss",
+      "description": "Hazelnut syrup, fresh raspberries, and hazelnut-raspberry ice cream for a delightful combination.",
+      "price": 12.29,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.mDkwleonI0osetMs9ItEuAHaLG?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mango Tango Falooda",
+      "subcategory": "Fruity Fiesta",
+      "description": "A dance of flavors with mango cubes, tango syrup, and mango-tango ice cream.",
+      "price": 12.99,
+      "ratings": 4.7,
+      "image": "https://www.cookclickndevour.com/wp-content/uploads/2017/04/mango-falooda-recipe-c-683x1024.jpg"
+    },
+    {
+      "name": "Pistachio Raspberry Rose Falooda",
+      "subcategory": "Elegant Fusion",
+      "description": "Pistachios, raspberry syrup, and rose-flavored ice cream for an elegant and flavorful fusion.",
+      "price": 13.49,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/R.84f0a25b8e3a12205b2dc761b1919701?rik=useyM5BjXo9MCQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-2lBV1PD6HGk%2fVCCo6A6h8TI%2fAAAAAAAACGA%2fk60jsCWVAx0%2fs1600%2fIMG_8448.JPG&ehk=5AZGbQGt5CXbhSLaKxrtymPgIG1xH7BD%2boPbhkzExyk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Citrus Explosion Falooda",
+      "subcategory": "Tangy Delight",
+      "description": "A burst of citrus flavors with orange syrup, lemon zest, and citrus sorbet.",
+      "price": 13.99,
+      "ratings": 4.8,
+      "image": "https://i.pinimg.com/originals/14/42/00/1442008950f8dd82917a69c2e55cb64b.jpg"
+    },
+    {
+      "name": "Blue Raspberry Bubblegum Falooda",
+      "subcategory": "Bubblegum Fantasy",
+      "description": "Blue raspberry syrup, bubblegum pearls, and bubblegum-flavored ice cream for a playful experience.",
+      "price": 14.49,
+      "ratings": 4.7,
+      "image": "https://i.pinimg.com/originals/7a/41/3b/7a413b9d5ba3e2a2e10837f3022db44b.jpg"
+    },
+    {
+      "name": "Avocado Coconut Falooda",
+      "subcategory": "Creamy Green",
+      "description": "Creamy avocado, coconut milk, and avocado-coconut ice cream for a smooth and creamy treat.",
+      "price": 15.29,
+      "ratings": 4.9,
+      "image": "https://i.ytimg.com/vi/AxvpsguJgnM/maxresdefault.jpg"
+    },
+    {
+      "name": "Chai Spiced Falooda",
+      "subcategory": "Spicy Twist",
+      "description": "Chai spices, vermicelli, and chai-spiced ice cream for a warm and aromatic falooda.",
+      "price": 14.79,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.EII7kispiF1vQbFrqEdWVQHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Dragon Fruit Mango Falooda",
+      "subcategory": "Tropical Fusion",
+      "description": "Dragon fruit cubes, mango syrup, and dragon fruit-mango ice cream for a visually stunning treat.",
+      "price": 15.99,
+      "ratings": 4.7,
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/04/Mango-Falooda-2-3.jpg"
+    },
+    {
+      "name": "Tropical Pineapple Falooda",
+      "subcategory": "Island Paradise",
+      "description": "Fresh pineapple chunks, pineapple syrup, and pineapple sorbet for a taste of the tropics.",
+      "price": 16.49,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/originals/2e/86/ce/2e86ce51e0910368a76918fb0c25804f.jpg"
+    },
+    {
+      "name": "Peach Berry Bliss Falooda",
+      "subcategory": "Peachy Berry Blend",
+      "description": "Juicy peach slices, mixed berries, and peach-berry ice cream for a fruity explosion.",
+      "price": 17.29,
+      "ratings": 4.8,
+      "image": "https://i.pinimg.com/originals/3c/c0/bd/3cc0bd94087d49e51406063e9eb23430.jpg"
+    }
+  ],
+  "classic_flavours": [
+    {
+      "name": "Vanilla",
+      "subcategory": "Classic",
+      "description": "Smooth and creamy vanilla ice cream.",
+      "price": 4.99,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.7hnT-cI3AqMO1pQXwZo-0gHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chocolate",
+      "subcategory": "Classic",
+      "description": "Rich and indulgent chocolate ice cream.",
+      "price": 5.99,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/R.1e5f2861b32e19e4ba590f1ef5cc4ae7?rik=uyCtRGs4xetolw&riu=http%3a%2f%2fnutritionfor.us%2fwp-content%2fuploads%2f2014%2f08%2fice-cream.jpg&ehk=zGLUC%2fj2Frk5NutbngRiGahjlo6VZoivqoxaiHF4cJE%3d&risl=1&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Strawberry",
+      "subcategory": "Classic",
+      "description": "Classic strawberry-flavored ice cream with real fruit.",
+      "price": 6.49,
+      "ratings": 4.3,
+      "image": "https://ohsweetbasil.com/wp-content/uploads/creamy-homemade-strawberry-ice-cream-recipe-6-scaled.jpg"
+    },
+    {
+      "name": "Mint Chocolate Chip",
+      "subcategory": "Classic",
+      "description": "Cool mint ice cream with chocolate chips for a delightful crunch.",
+      "price": 5.49,
+      "ratings": 4.6,
+      "image": "https://www.browneyedbaker.com/wp-content/uploads/2020/06/Mint-chocolate-chip-ice-cream-14-1200-768x1152.jpg"
+    },
+    {
+      "name": "Cookies and Cream",
+      "subcategory": "Classic",
+      "description": "Classic vanilla ice cream with chunks of chocolate cookies.",
+      "price": 5.79,
+      "ratings": 4.4,
+      "image": "https://th.bing.com/th/id/OIP.MDaxhM2s1Ayh7kxF1zRnfwHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Butter Pecan",
+      "subcategory": "Classic",
+      "description": "Buttery-flavored ice cream with the richness of pecan nuts.",
+      "price": 6.29,
+      "ratings": 4.7,
+      "image": "https://theliveinkitchen.com/wp-content/uploads/2013/07/ButterPecanIceCreamNuts-721x1024.jpg"
+    },
+    {
+      "name": "Rocky Road",
+      "subcategory": "Classic",
+      "description": "Decadent chocolate ice cream with marshmallows, almonds, and fudge chunks.",
+      "price": 7.49,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.4VltPOi7YLTwYsTHWToK2AHaLG?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Classic Strawberry Swirl",
+      "subcategory": "Classic",
+      "description": "Creamy strawberry ice cream with a delightful strawberry swirl.",
+      "price": 6.99,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.hW8v5LMcBHndf65N4f4ZyQHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Double Chocolate Delight",
+      "subcategory": "Classic",
+      "description": "Twice the chocolate pleasure with a rich chocolate base and chocolate chunks.",
+      "price": 6.79,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.4ie2ph5mExKSTkiz1F4aWQHaJQ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Old-Fashioned Vanilla Bean",
+      "subcategory": "Classic",
+      "description": "A classic vanilla experience with real vanilla bean specks for added flavor.",
+      "price": 7.29,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.WuKYWePVmUeKhfKnvURMUAHaKF?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Hazelnut Heaven",
+      "subcategory": "Classic",
+      "description": "Creamy hazelnut ice cream with a mix of roasted nuts.",
+      "price": 6.79,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/82/74/5e/82745e993612144f22665e87f2ded326.jpg"
+    },
+    {
+      "name": "French Vanilla Dream",
+      "subcategory": "Classic",
+      "description": "A sophisticated take on vanilla with French vanilla essence and a velvety texture.",
+      "price": 7.99,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.6NF-K2CR67iLaFwg84TJkgHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Dark Chocolate Indulgence",
+      "subcategory": "Classic",
+      "description": "A rich and intense dark chocolate experience for the true chocolate connoisseur.",
+      "price": 8.49,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.KW4KdCS35LqUKwDVtSUJRQHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Berrylicious Twist",
+      "subcategory": "Classic",
+      "description": "Vanilla ice cream with a swirl of mixed berries, creating a delightful burst of fruity flavor.",
+      "price": 6.89,
+      "ratings": 4.6,
+      "image": "https://parade.com/.image/t_share/MTkwNTc5OTk2NDkwNDA5MDg1/dark-chocolate-raspberry-swirl-ice-cream.jpg"
+    },
+    {
+      "name": "Classic Caramel Crunch",
+      "subcategory": "Classic",
+      "description": "Smooth vanilla ice cream with ribbons of caramel and a satisfying crunch.",
+      "price": 7.29,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.M3V4McPlVKA1NSDwyLREswHaJ_?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Toasted Almond Delight",
+      "subcategory": "Classic",
+      "description": "Vanilla ice cream with toasted almond pieces for a nutty and crunchy experience.",
+      "price": 6.79,
+      "ratings": 4.5,
+      "image": "https://icecreamfromscratch.com/wp-content/uploads/2021/07/Toasted-Almond-Ice-Cream-1.2-735x1103.jpg"
+    },
+    {
+      "name": "Classic Cherry Jubilee",
+      "subcategory": "Classic",
+      "description": "Vanilla ice cream with swirls of cherry compote, delivering a burst of sweet and tart flavors.",
+      "price": 7.49,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/e0/59/e3/e059e3f7f99f663d5aa7636af7b7c73d.png"
+    },
+    {
+      "name": "Peanut Butter Bliss",
+      "subcategory": "Classic",
+      "description": "Creamy vanilla ice cream with ribbons of peanut butter for a heavenly combination.",
+      "price": 8.19,
+      "ratings": 4.7,
+      "image": "https://barefeetinthekitchen.com/wp-content/uploads/2025/08/Peanut-Butter-Ice-Cream-BFK-2-1-of-1.jpg"
+    },
+    {
+      "name": "Classic Pistachio Perfection",
+      "subcategory": "Classic",
+      "description": "A classic treat with pistachio-flavored ice cream and a generous serving of chopped pistachios.",
+      "price": 7.79,
+      "ratings": 4.5,
+      "image": "https://thesaltedpepper.com/wp-content/uploads/2020/09/pistachio-ice-cream-sq.jpg"
+    },
+    {
+      "name": "Maple Walnut Symphony",
+      "subcategory": "Classic",
+      "description": "Vanilla ice cream with a harmonious blend of maple syrup and crunchy walnut pieces.",
+      "price": 8.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.fqiXggqjXFZ-PpurZ0YkywHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Classic Lemon Sorbet",
+      "subcategory": "Classic",
+      "description": "A refreshing and tangy lemon sorbet for a citrusy delight.",
+      "price": 6.59,
+      "ratings": 4.4,
+      "image": "https://th.bing.com/th/id/OIP.0LwPIDOrZpHOmzpcTdNblgHaLG?rs=1&pid=ImgDetMain"
+    }
+  ],
+  "Chocolate_Lovers": [
+    {
+      "name": "Decadent Dark Chocolate Delight",
+      "subcategory": "Chocolate Lovers",
+      "description": "Indulge in the richness of dark chocolate with this velvety and decadent ice cream.",
+      "price": 9.99,
+      "ratings": 4.8,
+      "image": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/80273/dark-chocolate-ice-cream-6-pints.25e2983b2552da9e5bc231a876912022.jpg?ixlib=rails-3.0.2&url_params={:w%3D%3E1200%2C%20:h%3D%3E630%2C%20:fit%3D%3E%22crop%22}"
+    },
+    {
+      "name": "Double Chocolate Fudge Fantasy",
+      "subcategory": "Chocolate Lovers",
+      "description": "A dreamy combination of chocolate ice cream and luscious fudge swirls for an extra chocolatey experience.",
+      "price": 8.79,
+      "ratings": 4.7,
+      "image": "https://baileyscountrystore.co.uk/wp-content/uploads/2020/08/Double-Chocolate-fudge.jpg"
+    },
+    {
+      "name": "Chocolate Hazelnut Heaven",
+      "subcategory": "Chocolate Lovers",
+      "description": "Creamy chocolate ice cream with swirls of hazelnut for a heavenly and nutty indulgence.",
+      "price": 9.49,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.RMxX2EDU1u0y56NSn45NxwHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Milk Chocolate Caramel Crunch",
+      "subcategory": "Chocolate Lovers",
+      "description": "Smooth milk chocolate ice cream with ribbons of caramel and a satisfying crunch.",
+      "price": 8.59,
+      "ratings": 4.6,
+      "image": "https://i2.wp.com/www.flourandspiceblog.com/wp-content/uploads/2017/05/caramel_crunch_icecream_1.jpg?resize=665%2C998"
+    },
+    {
+      "name": "Triple Chocolate Brownie Bliss",
+      "subcategory": "Chocolate Lovers",
+      "description": "Experience triple chocolate goodness with chocolate ice cream, fudge brownie pieces, and chocolate swirls.",
+      "price": 10.29,
+      "ratings": 4.5,
+      "image": "https://i.pinimg.com/originals/e0/79/a1/e079a1539d2f81381270ff34f8fdee9d.jpg"
+    },
+    {
+      "name": "Chocolate Mint Chip Extravaganza",
+      "subcategory": "Chocolate Lovers",
+      "description": "Cool mint chocolate chip ice cream with an extra dose of rich chocolate chips for an extravagant treat.",
+      "price": 9.19,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.-z5035Mn5U3f4HknACd7NwHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "White Chocolate Raspberry Swirl",
+      "subcategory": "Chocolate Lovers",
+      "description": "A delightful blend of white chocolate ice cream and swirls of raspberry for a fruity and chocolatey delight.",
+      "price": 9.89,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/R.1d57a70875a2c6b2bee26801bf290751?rik=e0dm7gFCOnbcbA&riu=http%3a%2f%2f4.bp.blogspot.com%2f_pLF8zP_DeW8%2fTBrJbbfmNxI%2fAAAAAAAAEA0%2fD38sJ0jBDUs%2fs1600%2f031.JPG&ehk=u4IEWgTRk%2f1ubq6Iv1nLyyqCYkvhZI7hArc2F%2b7EU58%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Chocolate Almond Toffee Crunch",
+      "subcategory": "Chocolate Lovers",
+      "description": "Rich chocolate ice cream with crunchy almonds and toffee pieces for a satisfying texture.",
+      "price": 8.99,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/736x/de/33/ef/de33ef6976e9121cd58672a6f97a1b8a.jpg"
+    },
+    {
+      "name": "Dark Chocolate Sea Salt Caramel",
+      "subcategory": "Chocolate Lovers",
+      "description": "An irresistible combination of dark chocolate ice cream, sea salt caramel swirls, and chocolate chunks.",
+      "price": 10.79,
+      "ratings": 4.9,
+      "image": "https://houseofnasheats.com/wp-content/uploads/2019/05/Peanut-Butter-Sauce-for-Ice-Cream-20-416x520.jpg"
+    },
+    {
+      "name": "Chocolate Peanut Butter Cup Paradise",
+      "subcategory": "Chocolate Lovers",
+      "description": "Creamy chocolate ice cream with swirls of peanut butter and chunks of peanut butter cups.",
+      "price": 9.69,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.Dpq_cA7SaC1Pbd9WRgYrzwHaLJ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mocha Caramel Brownie Blast",
+      "subcategory": "Chocolate Lovers",
+      "description": "A blast of flavor with mocha ice cream, caramel swirls, and chunks of fudge brownie.",
+      "price": 10.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.COfzsYKJAeSInDou8HBIfgHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chocolate Cherry Jubilee",
+      "subcategory": "Chocolate Lovers",
+      "description": "Rich chocolate ice cream with swirls of cherry compote, delivering a burst of sweet and tart flavors.",
+      "price": 7.99,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.xeKAoMtEbQWgec2IXYZCcQHaLL?w=678&h=1024&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chocolate Tiramisu Temptation",
+      "subcategory": "Chocolate Lovers",
+      "description": "Indulge in the classic Italian dessert with layers of chocolate ice cream, coffee, and mascarpone cheese.",
+      "price": 11.19,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/R.db956fb64f97fe5978c15b39d16c6c9e?rik=UYeXMb%2bPdlCJsQ&riu=http%3a%2f%2fcdn.foodbeast.com.s3.amazonaws.com%2fcontent%2fwp-content%2fuploads%2f2011%2f07%2fDSC06237.jpg&ehk=BlfFXgrLGX3Oh8HroLOPqJRpIYf9IuwuqumwysINi1k%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Rocky Road to Chocolate Paradise",
+      "subcategory": "Chocolate Lovers",
+      "description": "A rocky road adventure with chocolate ice cream, marshmallows, almonds, and fudge chunks.",
+      "price": 9.29,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.sVoMZk0L1_DymmC1DSQl0AHaIh?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chocolate Coconut Bliss",
+      "subcategory": "Chocolate Lovers",
+      "description": "Escape to a tropical paradise with chocolate ice cream and coconut flakes.",
+      "price": 8.69,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.sR5l6pcQgkrtSrWEVXIedQHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "White Chocolate Peppermint Pleasure",
+      "subcategory": "Chocolate Lovers",
+      "description": "Delight in the holiday spirit with white chocolate ice cream and peppermint swirls.",
+      "price": 9.79,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.imrwmGZ_8J41_f9GQMivggHaHa?w=720&h=720&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chocolate Espresso Eruption",
+      "subcategory": "Chocolate Lovers",
+      "description": "Experience an eruption of flavor with chocolate ice cream infused with espresso and chocolate-covered espresso beans.",
+      "price": 10.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.RtZCg2AJ3yRciXr-awvF7gHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Hazelnut Chocolate Swirl Supreme",
+      "subcategory": "Chocolate Lovers",
+      "description": "A supreme blend of chocolate ice cream and hazelnut swirls for a nutty and chocolaty treat.",
+      "price": 9.39,
+      "ratings": 4.8,
+      "image": "https://recipes-list.com/uploads/rec-chocolate-hazelnut-swirl-ice-cream.jpg"
+    },
+    {
+      "name": "Chocolate Raspberry Truffle Temptation",
+      "subcategory": "Chocolate Lovers",
+      "description": "Indulge in the temptation of chocolate ice cream with raspberry truffle swirls and chocolate truffle pieces.",
+      "price": 11.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/R.48f485b3ca6955adfb253739324d2284?rik=fZ%2fhEk1OZsoYNw&riu=http%3a%2f%2fchf.chefthisup.com%2fposts%2f4698_657483573_l.jpg&ehk=hZUOuyNYAat1pKAFglzOzhMYc18ftWcT8fAZjhl4n9U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Caramel Pretzel Chocolate Crunch",
+      "subcategory": "Chocolate Lovers",
+      "description": "Satisfy your sweet and salty cravings with chocolate ice cream, caramel swirls, and pretzel pieces.",
+      "price": 10.79,
+      "ratings": 4.9,
+      "image": "https://3.bp.blogspot.com/-SaO--8471B4/VbfWprSzZ9I/AAAAAAAAMl0/NNJ8cduNiv8/s1600/Chocolate%2BCovered%2BPretzle%2BSundae_CloseTM.jpg"
+    }
+  ],
+  "Fruit_Infusion": [
+    {
+      "name": "Tropical Mango Tango",
+      "subcategory": "Fruit Infusion",
+      "description": "Escape to the tropics with mango-flavored ice cream, real mango pieces, and a hint of passion fruit.",
+      "price": 8.99,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.kSmWTuaoKZUKNIGhqtUTxAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Berry Berry Explosion",
+      "subcategory": "Fruit Infusion",
+      "description": "An explosion of berry flavors with strawberry, blueberry, and raspberry-infused ice cream.",
+      "price": 9.49,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.L_aZGUvYIHOwYe5YBLTJ2QHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Citrus Sunshine Sorbet",
+      "subcategory": "Fruit Infusion",
+      "description": "Experience the bright and zesty flavors of orange, lemon, and lime in this refreshing citrus sorbet.",
+      "price": 7.99,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/R.cfa40e73c29aa4fa2bc5671a466f056e?rik=k1c71%2fCw%2f1TndA&riu=http%3a%2f%2fcdn2.tmbi.com%2fTOH%2fImages%2fPhotos%2f37%2f1200x1200%2fLemon-Sorbet_exps25719_LT1115223D53_RMS.jpg&ehk=SXvEHQhUfDDNOccfa0rYx1s%2fj9Zc3q0ApduDpDaq0kE%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Exotic Passionfruit Paradise",
+      "subcategory": "Fruit Infusion",
+      "description": "Take a journey to paradise with the exotic flavor of passion fruit-infused ice cream.",
+      "price": 10.29,
+      "ratings": 4.9,
+      "image": "https://abmauri.com.my/wp-content/uploads/2021/04/10.-MangoPassionFruit.jpg"
+    },
+    {
+      "name": "Pineapple Coconut Bliss",
+      "subcategory": "Fruit Infusion",
+      "description": "A tropical blend of pineapple and coconut in a creamy and refreshing ice cream.",
+      "price": 8.79,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.qbYbwKn07rYNus-tAIngBQHaKH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mango Raspberry Swirl Sensation",
+      "subcategory": "Fruit Infusion",
+      "description": "Delight your taste buds with the sweet and tart swirls of mango and raspberry in this fruity sensation.",
+      "price": 9.79,
+      "ratings": 4.7,
+      "image": "https://img.taste.com.au/-KCcgEUn/taste/2018/11/mango-raspberry-ice-cream-bombe-144081-2.jpg"
+    },
+    {
+      "name": "Blueberry Cheesecake Fantasy",
+      "subcategory": "Fruit Infusion",
+      "description": "Indulge in the fantasy of blueberry-flavored ice cream with swirls of cheesecake and graham cracker pieces.",
+      "price": 10.99,
+      "ratings": 4.8,
+      "image": "https://addapinch.com/wp-content/uploads/2016/07/blueberry-cheesecake-ice-cream-recipe-addapinch-1145.jpg"
+    },
+    {
+      "name": "Watermelon Sorbet Splash",
+      "subcategory": "Fruit Infusion",
+      "description": "Cool off with the refreshing taste of watermelon sorbet, perfect for a summer splash.",
+      "price": 7.49,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.rdH8XBt4IG_8GDKcE2gyXAHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Strawberry Kiwi Fusion",
+      "subcategory": "Fruit Infusion",
+      "description": "A delightful fusion of sweet strawberries and tangy kiwi in a creamy ice cream base.",
+      "price": 8.59,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/R.0f6a7532973f5f40a2bb456335537372?rik=acXHc4PglhI6LA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-0UGLhpYNcCc%2fTvEXtl5tvEI%2fAAAAAAAABWU%2f1DUpn3dojaI%2fs1600%2fstrawbKiwiSunday.jpg&ehk=dl5CmidEAtOHH3LQe3hel897Kj%2fMDKK0zkn%2bTIiIL1Q%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Citrus Berry Blast",
+      "subcategory": "Fruit Infusion",
+      "description": "Enjoy a burst of citrus and berry flavors with orange, lemon, strawberry, and blueberry-infused ice cream.",
+      "price": 9.89,
+      "ratings": 4.6,
+      "image": "https://i.pinimg.com/originals/8e/d4/a5/8ed4a5f30507868a23ca421a73c5904a.jpg"
+    },
+    {
+      "name": "Peach Melba Dream",
+      "subcategory": "Fruit Infusion",
+      "description": "Experience the dreamy combination of peach-flavored ice cream, raspberry swirls, and peach pieces.",
+      "price": 9.19,
+      "ratings": 4.7,
+      "image": "https://i.pinimg.com/originals/38/b5/6e/38b56e87f9bd97949c62e8b87fad1df6.jpg"
+    },
+    {
+      "name": "Lemon Blueberry Burst",
+      "subcategory": "Fruit Infusion",
+      "description": "A burst of flavor with zesty lemon-infused ice cream and juicy blueberry swirls.",
+      "price": 8.29,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.KSY1KuMC1LKBHzHukIAkPgHaKl?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Cherry Limeade Swirl",
+      "subcategory": "Fruit Infusion",
+      "description": "Cool off with the refreshing taste of cherry limeade in a delightful ice cream swirl.",
+      "price": 9.69,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.zwOJetgD4OeUogjJry-KgwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Grapefruit Honey Sorbet",
+      "subcategory": "Fruit Infusion",
+      "description": "A sophisticated sorbet with the citrusy notes of grapefruit and a touch of honey sweetness.",
+      "price": 8.89,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/originals/99/ff/78/99ff786e97f807d1ba139c112d1a9cdd.jpg"
+    },
+    {
+      "name": "Passionfruit Kiwi Cooler",
+      "subcategory": "Fruit Infusion",
+      "description": "Cool down with the tropical goodness of passionfruit and kiwi-infused ice cream.",
+      "price": 9.39,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.CfPXBStaXJxNLfljku_4bwHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mango Pineapple Paradise",
+      "subcategory": "Fruit Infusion",
+      "description": "Escape to a tropical paradise with the sweet blend of mango and pineapple in this creamy delight.",
+      "price": 8.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.YcjcN2ZZDsB_alS9JkCwFgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mixed Berry Medley",
+      "subcategory": "Fruit Infusion",
+      "description": "A medley of mixed berries, including strawberries, blueberries, and raspberries, in a luscious ice cream base.",
+      "price": 10.09,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.c9NNjLU53o3KqnhqPtSwCAHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pear Pomegranate Pleasure",
+      "subcategory": "Fruit Infusion",
+      "description": "Experience the pleasure of juicy pears and tangy pomegranate in this delightful ice cream creation.",
+      "price": 8.79,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.zakeRGc0vmCOEACHwq7IpAHaGY?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Apple Cinnamon Spice Delight",
+      "subcategory": "Fruit Infusion",
+      "description": "Warm up with the delightful combination of apple and cinnamon-infused ice cream, reminiscent of a cozy spice blend.",
+      "price": 9.99,
+      "ratings": 4.9,
+      "image": "https://lh5.googleusercontent.com/-xQYEy0VhKZI/TpDpn1ExaGI/AAAAAAAATqI/Jw9x63NfT5Y/s800/DSCN7529.JPG"
+    },
+    {
+      "name": "Cherry Almond Blossom",
+      "subcategory": "Fruit Infusion",
+      "description": "A blossom of flavors with cherry-infused ice cream and almond pieces for a nutty twist.",
+      "price": 8.29,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.erCpNhs3SCps7ZlWspUM-gHaLG?w=683&h=1024&rs=1&pid=ImgDetMain"
+    }
+  ],
+  "Specialty_Flavors": [
+    {
+      "name": "Salted Caramel Truffle Delight",
+      "subcategory": "Specialty Flavors",
+      "description": "Indulge in the perfect blend of sweet and salty with salted caramel ice cream and truffle pieces.",
+      "price": 11.99,
+      "ratings": 4.8,
+      "image": "https://i.pinimg.com/originals/d6/c3/fe/d6c3fefec806fcbd3e0d3867e832abdd.jpg"
+    },
+    {
+      "name": "Honey Lavender Infusion",
+      "subcategory": "Specialty Flavors",
+      "description": "Experience the delicate floral notes of lavender combined with the sweetness of honey in this unique ice cream.",
+      "price": 12.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.a9fEcE3GxlAqGQ_gLwAQjwHaFf?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Matcha Green Tea Bliss",
+      "subcategory": "Specialty Flavors",
+      "description": "Savor the earthy and vibrant flavors of matcha green tea in this delightful and refreshing ice cream.",
+      "price": 10.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.nrCAtlkMLY3Ts1LXDJYCwwHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Balsamic Strawberry Symphony",
+      "subcategory": "Specialty Flavors",
+      "description": "A symphony of flavors with balsamic-infused strawberry ice cream, creating a sweet and tangy masterpiece.",
+      "price": 13.29,
+      "ratings": 4.6,
+      "image": "https://pettyemily.files.wordpress.com/2022/04/image-7.jpg"
+    },
+    {
+      "name": "Rose Pistachio Elegance",
+      "subcategory": "Specialty Flavors",
+      "description": "Elevate your taste buds with the elegant combination of rose-flavored ice cream and pistachio pieces.",
+      "price": 11.79,
+      "ratings": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.zqC-N-tgXB1RZNTJxfP3fwHaHx?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Maple Bacon Delight",
+      "subcategory": "Specialty Flavors",
+      "description": "A delightful blend of sweet and savory with maple-flavored ice cream and crispy bacon bits.",
+      "price": 12.79,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.AuBLL2ocpYunDbAGYxEOXAHaHh?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Saffron Cardamom Dream",
+      "subcategory": "Specialty Flavors",
+      "description": "Embark on a dreamy journey with saffron and cardamom-infused ice cream, offering a hint of spice and warmth.",
+      "price": 13.99,
+      "ratings": 4.7,
+      "image": "https://www.abeautifulplate.com/wp-content/uploads/2013/08/saffron_ice_cream-1-6.jpg"
+    },
+    {
+      "name": "Chocolate Chili Explosion",
+      "subcategory": "Specialty Flavors",
+      "description": "Experience the bold and spicy kick with chocolate ice cream infused with chili for an explosive flavor.",
+      "price": 12.09,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.IZK7GevJKeVuPts5b6NUvAHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Coconut Lemongrass Fusion",
+      "subcategory": "Specialty Flavors",
+      "description": "A tropical fusion of coconut and lemongrass in a creamy and refreshing ice cream creation.",
+      "price": 13.49,
+      "ratings": 4.9,
+      "image": "https://i0.wp.com/www.cookingupclean.com/wp-content/uploads/2015/02/coconut-lemongrass-icecream2.jpg?resize=630%2C1024"
+    },
+    {
+      "name": "Fig Balsamic Swirl",
+      "subcategory": "Specialty Flavors",
+      "description": "Delight in the sweet and tangy swirls of fig and balsamic-infused ice cream for a sophisticated treat.",
+      "price": 11.59,
+      "ratings": 4.8,
+      "image": "https://static1.squarespace.com/static/56cb2b157da24faa1f771305/t/56d441ad06dcb7092e808740/1456751213832/IMG_44401-690x1024.jpg"
+    },
+    {
+      "name": "Mango Chili Lime Fiesta",
+      "subcategory": "Specialty Flavors",
+      "description": "Celebrate the fiesta of flavors with mango-infused ice cream, a hint of chili, and zesty lime.",
+      "price": 12.89,
+      "ratings": 4.7,
+      "image": "https://c1.staticflickr.com/5/4146/4985361895_c1ca42bc13_b.jpg"
+    },
+    {
+      "name": "Black Sesame Symphony",
+      "subcategory": "Specialty Flavors",
+      "description": "A symphony of nutty and earthy flavors with black sesame-infused ice cream.",
+      "price": 13.19,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.kag29zcpN67ds7EH0T_eMgHaLC?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Earl Grey Lavender Serenity",
+      "subcategory": "Specialty Flavors",
+      "description": "Find serenity in the calming blend of Earl Grey tea and lavender-infused ice cream.",
+      "price": 11.29,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.YOm6IkGbdy1P15h8lQELdgHaIC?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pomegranate Rosewater Delight",
+      "subcategory": "Specialty Flavors",
+      "description": "Delight in the floral notes of rosewater combined with the sweetness of pomegranate in this unique ice cream.",
+      "price": 12.99,
+      "ratings": 4.8,
+      "image": "https://i.pinimg.com/originals/27/95/a1/2795a1a6ac3ea4d4e70ca2813676edfe.png"
+    },
+    {
+      "name": "Caramelized Banana Bourbon Bliss",
+      "subcategory": "Specialty Flavors",
+      "description": "A blissful combination of caramelized banana and a hint of bourbon in this indulgent ice cream.",
+      "price": 13.79,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/R.45bf5565a6fc77be662361f763128d63?rik=iaz7jGu2fa5OEQ&riu=http%3a%2f%2fwww.coffeeandquinoa.com%2fwp-content%2fuploads%2f2013%2f07%2fDSC_1757-596x900.jpg&ehk=RBChvsigWM9gkWrvTT7f1h%2fzSRImEOBzZQUvZJYhXnU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Gingerbread Cookie Avalanche",
+      "subcategory": "Specialty Flavors",
+      "description": "Experience the warmth of gingerbread cookies in a creamy ice cream avalanche of flavor.",
+      "price": 12.39,
+      "ratings": 4.6,
+      "image": "https://hips.hearstapps.com/amv-prod-tpw.s3.amazonaws.com/wp-content/uploads/2018/12/Gingerbread-Cookie-Ice-Cream-10.jpg?resize=480:*"
+    },
+    {
+      "name": "Raspberry Rose Petal Romance",
+      "subcategory": "Specialty Flavors",
+      "description": "Embark on a romantic journey with raspberry-infused ice cream and delicate rose petal swirls.",
+      "price": 13.09,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.dzEjnUbag_jzoCz17mEoBQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Chai Spice Euphoria",
+      "subcategory": "Specialty Flavors",
+      "description": "Elevate your senses with the warm and aromatic blend of chai spices in this euphoric ice cream experience.",
+      "price": 11.49,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.1r7qZbzfXJwX4anfvNL3yQHaLO?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Blueberry Basil Symphony",
+      "subcategory": "Specialty Flavors",
+      "description": "A symphony of flavors with blueberry-infused ice cream and fresh basil for a unique and delightful combination.",
+      "price": 12.69,
+      "ratings": 4.7,
+      "image": "https://images.squarespace-cdn.com/content/v1/5418a5bae4b0877352524377/1452486644361-ZO4NMYSKBGRJHPALQ1OW/image-asset.jpeg"
+    },
+    {
+      "name": "Mint Julep Indulgence",
+      "subcategory": "Specialty Flavors",
+      "description": "Indulge in the classic Southern charm of mint julep-flavored ice cream with a hint of bourbon.",
+      "price": 13.59,
+      "ratings": 4.6,
+      "image": "https://spicysouthernkitchen.com/wp-content/uploads/Mint-Julep-Ice-Cream-9.jpg"
+    }
+  ],
+  "Khulfi": [
+    {
+      "name": "Royal Pistachio Khulfi",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Experience the richness of pistachios in this royal khulfi, blended with traditional flavors for a regal treat.",
+      "price": 12.99,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.qXesku0l5tEeEDrraYnYpwHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Mango Mastani Delight",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Indulge in the sweet and luscious flavor of mango mastani khulfi, capturing the essence of the famous dessert.",
+      "price": 13.49,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.aCoyfoyqDzCIeh71WSNHtAHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Kesar Pista Kulfi Crunch",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Savor the crunch of kesar pista kulfi with the added delight of nuts, creating a perfect balance of textures.",
+      "price": 11.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/R.69eb227eab406d5b426ea731a21c1429?rik=PF%2bFMLkl1zsrEw&riu=http%3a%2f%2fpolkapuffs.in%2fwp-content%2fuploads%2f2016%2f04%2fkesar-pista-kulfi-final-1.jpeg&ehk=OUwM2iK8XsZQSdjz2qvZRsbPk7kdvVGld4vQ0L%2fMFqA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Gulkand Rabri Bliss",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Experience the blissful combination of gulkand and rabri in this indulgent khulfi, offering a floral and creamy delight.",
+      "price": 14.29,
+      "ratings": 4.6,
+      "image": "https://maryzkitchen.com/wp-content/uploads/2021/03/IMG-20210301-WA0024.jpg"
+    },
+    {
+      "name": "Coconut Candy Carnival",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Step into a candy carnival with coconut-flavored khulfi, delivering a sweet and tropical sensation.",
+      "price": 12.79,
+      "ratings": 4.5,
+      "image": "https://i.pinimg.com/originals/3c/cb/f2/3ccbf23a8b7bf3878e8757565d14892b.jpg"
+    },
+    {
+      "name": "Mint Choco Chip Chuski",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Cool down with the refreshing mint choco chip chuski, a frozen delight reminiscent of childhood summers.",
+      "price": 13.99,
+      "ratings": 4.8,
+      "image": "https://www.mintsrecipes.com/wp-content/uploads/Malai-Kulfi-Recipe-In-Hindi-p1.jpg"
+    },
+    {
+      "name": "Banana Toffee Twist",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Twist things up with the delightful combination of banana and toffee in this unique khulfi creation.",
+      "price": 12.09,
+      "ratings": 4.7,
+      "image": "https://www.lifeberrys.com/img/article/banana-kulfi2-1599042418-lb.jpg"
+    },
+    {
+      "name": "Rose Fantasy Khulfi",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Embark on a fantasy journey with the aromatic rose falooda khulfi, featuring falooda noodles and floral notes.",
+      "price": 14.59,
+      "ratings": 4.6,
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/06/Rose-Kulfi.jpg"
+    },
+    {
+      "name": "Chocolate Pleasure",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Delight in the quirky fusion of chocolate and pani puri flavors, creating a pleasurable and unexpected combination.",
+      "price": 13.19,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.PArpjHo7XeYBA5osO-Q4wgHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Vanilla Candyland Carnival",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Enter the candyland carnival with vanilla-flavored khulfi, featuring a medley of candy pieces for a playful twist.",
+      "price": 11.89,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.GU6FJ3sfSUhqu9eqj3BJ4wHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pineapple Paan Delicacy",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Savor the delicate combination of pineapple and paan, creating a refreshing and exotic khulfi delicacy.",
+      "price": 14.09,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.MULAI85wodsIZoea7i4oigHaLG?w=683&h=1024&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Blueberry Luau",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Escape to a tropical luau with blueberry lassi khulfi, blending fruity blueberry with the tangy goodness of lassi.",
+      "price": 12.29,
+      "ratings": 4.6,
+      "image": "https://www.icecreampremixes.com/image/cache/catalog/KULFI/BERRY%20KULFI-786x500.jpg"
+    },
+    {
+      "name": "Chai Masala Munch",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Munch on the comforting flavors of chai masala khulfi, featuring warm and aromatic spices in every bite.",
+      "price": 13.79,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/originals/ad/6f/10/ad6f10d4ab29c6ee35e2f0f1f5f820ee.jpg"
+    },
+    {
+      "name": "Lychee Rose Petal Bliss",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Indulge in the blissful combination of lychee and rose petals, creating a sweet and floral khulfi experience.",
+      "price": 12.49,
+      "ratings": 4.8,
+      "image": "https://app.ckbk.com/images/v5/eyJrZXkiOiJpbWFnZXMvcmV6YTkxNDE5YzA2czAwMXIwMDZnMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Imluc2lkZSJ9fX0=?signature=d84def115355e3e8c177571f299cb65a556ecba8eeb2e9e34462b0a2bb763775"
+    },
+    {
+      "name": "Orange Zest Zing",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Zing up your taste buds with the vibrant orange zest khulfi, delivering a burst of citrusy goodness.",
+      "price": 14.39,
+      "ratings": 4.7,
+      "image": "https://dicencook.com/wp-content/uploads/2019/04/orange-kulfi-2.jpg"
+    },
+    {
+      "name": "Hazelnut Tiramisu Temptation",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Satisfy your sweet tooth with the tempting combination of hazelnut and tiramisu in this decadent khulfi.",
+      "price": 13.09,
+      "ratings": 4.6,
+      "image": "https://www.redpathsugar.com/sites/redpathsugar_com/files/2022-11/Kulfi_hero_panel_web%20(1%20of%201).jpg"
+    },
+    {
+      "name": "Raspberry Ripple Revelry",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Revel in the delightful swirls of raspberry in this creamy and indulgent khulfi experience.",
+      "price": 11.99,
+      "ratings": 4.9,
+      "image": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2015/07/rasberry-parfait-768x960.jpg"
+    },
+    {
+      "name": "Mango Chili Candy Crush",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Crush your cravings with the unique fusion of mango, chili, and candy in this irresistible khulfi creation.",
+      "price": 14.19,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/R.bd48e7476a191afb5fe0c5b23ebdf539?rik=f6zhm8XcrtBSNg&riu=http%3a%2f%2fwww.blissofcooking.com%2fwp-content%2fuploads%2f2017%2f07%2fMango-Kulfi-Feature-1-e1498986666928.jpg&ehk=%2bqmjleOXkOckjFCIEvibZ2kouQo%2bXCpXw%2fWBXrGGS4U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Bubblegum Bonanza",
+      "subcategory": "Khulfi, Flavour Candys",
+      "description": "Enter a bonanza of flavors with bubblegum-infused khulfi, offering a fun and nostalgic twist.",
+      "price": 12.69,
+      "ratings": 4.7,
+      "image": "https://sadguruicecream.com/wp-content/uploads/2022/12/fig.jpg"
+    }
+  ],
+  "cones": [
+    {
+      "name": "Classic Vanilla Joy Cone",
+      "subcategory": "Cone Delights",
+      "description": "Indulge in the timeless delight of classic vanilla ice cream served in a crispy joy cone.",
+      "price": 4.99,
+      "ratings": 4.7,
+      "image": "https://i.pinimg.com/736x/fe/0b/b2/fe0bb2741f0835e80f12e7244992cf84--homemade-vanilla-how-to-make-homemade.jpg"
+    },
+    {
+      "name": "Chocolate Fudge Dream Cone",
+      "subcategory": "Cone Delights",
+      "description": "Satisfy your chocolate cravings with a fudgy dream cone, featuring rich chocolate ice cream and fudge swirls.",
+      "price": 5.49,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.zI3AKOu5q1M0WzKfns_l7gHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Strawberry Bliss Waffle Cone",
+      "subcategory": "Cone Delights",
+      "description": "Experience the blissful sweetness of strawberry ice cream in a crunchy waffle cone.",
+      "price": 5.29,
+      "ratings": 4.6,
+      "image": "https://thumbs.dreamstime.com/b/waffle-cone-strawberry-ice-cream-waffle-cone-strawberry-ice-cream-bright-pink-background-124976055.jpg"
+    },
+    {
+      "name": "Mint Chocolate Chip Joy Cone",
+      "subcategory": "Cone Delights",
+      "description": "Refresh your senses with the coolness of mint chocolate chip ice cream served in a joy cone.",
+      "price": 5.99,
+      "ratings": 4.9,
+      "image": "https://www.eatingbyelaine.com/wp-content/uploads/2020/06/IMG_1628-scaled.jpg"
+    },
+    {
+      "name": "Cookies and Cream Waffle",
+      "subcategory": "Cone Delights",
+      "description": "Indulge in the delightful crunch of cookies and cream ice cream in a waffle bowl.",
+      "price": 6.49,
+      "ratings": 4.7,
+      "image": "https://www.shugarysweets.com/wp-content/uploads/2021/05/cookies-and-cream-ice-cream-cone.jpg"
+    },
+    {
+      "name": "Butter Pecan Joy Cone",
+      "subcategory": "Cone Delights",
+      "description": "Savor the richness of butter pecan ice cream served in a classic joy cone.",
+      "price": 5.79,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.BOanGzXG7jyjDY8XsPNyAwHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Rocky Road Waffle Cone",
+      "subcategory": "Cone Delights",
+      "description": "Embark on a rocky road adventure with chocolate ice cream, marshmallows, and nuts in a waffle cone.",
+      "price": 6.79,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.cXuhK96G3wdu84S_8cJqZQHaKX?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Caramel Sundae Cone",
+      "subcategory": "Cone Delights",
+      "description": "Indulge in the sweet and salty goodness of salted caramel ice cream in a sundae cone.",
+      "price": 6.99,
+      "ratings": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.3kTXrLgeiZb1q3EuRj8rlQHaLH?w=682&h=1024&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pistachio Almond Waffle",
+      "subcategory": "Cone Delights",
+      "description": "Enjoy the nutty delight of pistachio almond ice cream in a crispy waffle bowl.",
+      "price": 6.29,
+      "ratings": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.IJg5jzlTsJFKYksx3pO27wHaLG?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Cotton Candy Joy Cone",
+      "subcategory": "Cone Delights",
+      "description": "Take a trip to the carnival with the whimsical flavors of cotton candy ice cream in a joy cone.",
+      "price": 5.59,
+      "ratings": 4.8,
+      "image": "https://cdnb.artstation.com/p/assets/images/images/035/738/019/20210314203347/smaller_square/shawna-ray-blender-ice-rcream-2.jpg?1615772027"
+    },
+    {
+      "name": "Banana Split Sundae Cone",
+      "subcategory": "Cone Delights",
+      "description": "Experience the classic banana split in a cone, featuring banana, strawberry, and chocolate ice cream.",
+      "price": 7.29,
+      "ratings": 4.6,
+      "image": "https://i.ytimg.com/vi/T-tkyPzG1C0/hqdefault.jpg"
+    },
+    {
+      "name": "Vanilla Caramel Crunch Waffle Cone",
+      "subcategory": "Cone Delights",
+      "description": "Crunch on the delightful combination of vanilla ice cream, caramel swirls, and crispy bits in a waffle cone.",
+      "price": 6.89,
+      "ratings": 4.9,
+      "image": "https://i.pinimg.com/736x/ec/6e/38/ec6e38b12d057f4e4ecb58bf74114774.jpg"
+    },
+    {
+      "name": "Blueberry Cheesecake Sundae Cone",
+      "subcategory": "Cone Delights",
+      "description": "Indulge in the decadence of blueberry cheesecake ice cream in a sundae cone.",
+      "price": 6.49,
+      "ratings": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.5otcFo1Y2YrQMwcJpa9pSwHaKu?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Hazelnut Chocolate Drizzle Joy Cone",
+      "subcategory": "Cone Delights",
+      "description": "Drizzle your joy with the irresistible combination of hazelnut and chocolate in a joy cone.",
+      "price": 5.99,
+      "ratings": 4.7,
+      "image": "https://baranbakery.com/wp-content/uploads/2022/07/Dark-Chocolate-Ice-Cream-14-768x1152.jpg"
+    },
+    {
+      "name": "Raspberry Sorbet Waffle",
+      "subcategory": "Cone Delights",
+      "description": "Refresh your palate with the fruity delight of raspberry sorbet in a crisp waffle bowl.",
+      "price": 7.49,
+      "ratings": 4.6,
+      "image": "https://th.bing.com/th/id/OIP.gTq7-uaDd4wJWK561eDJTAHaKD?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Peach Melba Sundae Cone",
+      "subcategory": "Cone Delights",
+      "description": "Savor the fruity goodness of peach melba ice cream in a decadent sundae cone.",
+      "price": 6.99,
+      "ratings": 4.8,
+      "image": "https://assets-247moms.sfo2.cdn.digitaloceanspaces.com/2017/09/BerryCones_600x600-324x324.jpg"
+    },
+    {
+      "name": "Coffee Toffee Crunch Waffle Cone",
+      "subcategory": "Cone Delights",
+      "description": "Awaken your taste buds with the rich flavors of coffee toffee crunch ice cream in a crispy waffle cone.",
+      "price": 6.29,
+      "ratings": 4.7,
+      "image": "https://i.pinimg.com/originals/83/87/53/838753dfcdfa263218f1b405d1535ace.jpg"
+    },
+    {
+      "name": "Almond Joyful Crunch Sundae Cone",
+      "subcategory": "Cone Delights",
+      "description": "Experience joy with the crunchy delight of almond joy ice cream in a satisfying sundae cone.",
+      "price": 7.79,
+      "ratings": 4.6,
+      "image": "https://preview.redd.it/pab6zvobb4c31.jpg?auto=webp&s=b708fd7219ce91a6c13a03fe53f461bbf6c8b84e"
+    }
+  ]
+}
